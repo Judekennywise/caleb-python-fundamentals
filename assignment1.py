@@ -1,2 +1,2 @@
-sentence = "I am learning python"
+sentence = "I am learning Python"
 print(sentence)
