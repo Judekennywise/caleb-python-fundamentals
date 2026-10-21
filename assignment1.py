@@ -35,9 +35,9 @@ print("My full name is:",first_name ,last_name)
 name = input("What is your name?")
 print("Welcome" ,name + "!")
 
-
+#Concatenation
 fav_colour = input("What is your favourite colour?")
-print(name,"," "your favourite colour is:",fav_colour + "!")
+print(name + "," + " your favourite colour is: " + fav_colour + "!")
 
 add_num1 = int(input("Type in the first number you want to add:"))
 add_num2 = int(input("Type in the second number you want to add:"))
@@ -53,7 +53,7 @@ print(fic_char, job_desc, dream_goal)
 rose_colour = input("What colour is your rose?")
 violet_colour = input("What colour is your violet?")
 love_most = input("What do you love the most?")
-print("Roses are"  ,rose_colour + "Violets are"  ,violet_colour + "and I love" ,love_most)
+print("Roses are"  ,rose_colour + " Violets are"  ,violet_colour + " and I love" ,love_most)
 
 
 
