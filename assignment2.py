@@ -1,16 +1,16 @@
-# # for number in range(1,21):
-#     if number % 3 == 0:
-#        print(number)
+for number in range(1,21):
+    if number % 3 == 0:
+       print(number)
 # WARM-UP 1
 
 
-# div_count = 0
-# notdiv_count = 0
-# for number in range(1,51):
-#     if number % 5 == 0:
-#         div_count = div_count + 1
-#     else: notdiv_count = notdiv_count + 1
-# print("The numbers divisible by 5 are:" , div_count)  
+div_count = 0
+notdiv_count = 0
+for number in range(1,51):
+    if number % 5 == 0:
+        div_count = div_count + 1
+    else: notdiv_count = notdiv_count + 1
+print("The numbers divisible by 5 are:" , div_count)  
 # WARM-UP 2 
 
 secret_number = 8
